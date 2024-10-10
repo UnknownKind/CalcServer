@@ -1,0 +1,25 @@
+{
+	"localhost" : {
+		"HostName" : "localhost",
+		"DatabaseName" : "testrt",
+		"Port" : "5432",
+		"UserName" : "postgres",
+		"Password" : "12345"
+	},
+	
+	"output" : {
+		"HostName" : "localhost",
+		"DatabaseName" : "testrt",
+		"Port" : "5432",
+		"UserName" : "postgres",
+		"Password" : "12345"
+	},
+	
+	"coefficient" : {
+		"HostName" : "localhost",
+		"DatabaseName" : "testrt",
+		"Port" : "5432",
+		"UserName" : "postgres",
+		"Password" : "12345"
+	}
+}
